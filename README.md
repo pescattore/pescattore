@@ -1,7 +1,7 @@
 # 🐱‍💻 Yuri Xavier
 **``Desenvolvedor``**
 
-Meu nome é Yuri Xavier Lopes, tenho 19 anos e curto, bastante, tudo sobre programação e tecnologia!
+
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuuri.xis/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:yurixlopes156@gmail.com)
